@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mohanoe
-- 👀 I’m interested in Front End Development & SharePoint.
-- 🌱 I’m currently learning Python.
+- 👀 I’m interested in Front-End Development & SharePoint.
+- 🌱 I’m currently learning <b>Python</b>.
 - 💞️ I’m looking to collaborate on PWA projects.
 - 📫 How to reach me: @bm2coder
 
